@@ -18,7 +18,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 1. Diagram Class & Flowchart
 
-  /
+  ![Flowchart (13)](https://github.com/user-attachments/assets/15768721-4164-46d5-9693-db68e4becb63)
 
   ![Flowchart (12)](https://github.com/user-attachments/assets/caf1b3b3-4274-4ee6-8d66-96b0240b849b)
 
